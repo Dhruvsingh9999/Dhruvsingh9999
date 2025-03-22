@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Dhruv Pratap Singh
+- 👀 I’m interested in Machine Learning, Deep Learning, Generative AI, Agentic AI, Python, IOT, Robotics, etc 
+- 🌱 I’m currently learning Python,Power BI, Machine Learning, Deep Learnig, IOT
+- 💞️ I’m looking to collaborate on Minor Project , Discord, Google Cloud Arcade, Google Cloud,Spring Board
+- 📫 How to reach me [email: www.dhruv8120@gmail.com ,  LinkedIn: Dhruv Pratap Singh ,  Twitter: Dhruv Pratap Singh]
+- 😄 Languages: Python, C/C++ , Embeded C/C++ for IOT, HTML, CSS,Dart
+- ⚡ Fun fact: i love to work and study on new technologies and programmings 
