@@ -66,23 +66,14 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv8120&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruv8120&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv8120&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-pratap-singh/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhruv-pratap-singh-459524284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:dhruv8120@gmail.com">
