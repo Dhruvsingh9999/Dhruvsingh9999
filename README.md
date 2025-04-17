@@ -21,7 +21,7 @@
 
 ###
 <p align="center">
-  <img src="./" alt="Dhruv Banner" width="100%" />
+  <img src="./🎓 B.Tech student passionate about emerging tech and intelligent systems 🧠 Learning Python, Machine Learning, Power BI, IoT, Deep Learning 🤝 Collaborating on Minor Projects, Google Cloud Arcade,.png" alt="Dhruv Banner" width="100%" />
 </p>
 ---
 
