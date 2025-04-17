@@ -20,18 +20,9 @@
 </div>
 
 ###
-
-### 💡 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
-</div>
-
-- 🎓 B.Tech student passionate about **emerging tech and intelligent systems**
-- 🧠 Learning: **Python**, **Machine Learning**, **Power BI**, **IoT**, **Deep Learning**
-- 🤝 Collaborating on: Minor Projects, Google Cloud Arcade, SpringBoard Challenges
-- 🧩 Fun fact: I geek out over sensors, bots & AI breakthroughs 🤖
-
+<p align="center">
+  <img src="./" alt="Dhruv Banner" width="100%" />
+</p>
 ---
 
 ### 🛠️ Tech Stack
