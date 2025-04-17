@@ -47,7 +47,7 @@
 |--------|-------------|------------|------|
 | ![🗑️](https://img.icons8.com/ios/30/FA5252/garbage.png) **Smart IoT Waste Bin** | Auto garbage detection with alert system | NodeMCU, Embedded C | 🗑️ |
 | ![🚗](https://img.icons8.com/ios-filled/30/00C896/joystick.png) **Voice Controlled Car** | Control via voice commands | Arduino, BT Module | 🎮 |
-| ![📊](https://img.icons8.com/color/30/power-bi.png) **AI Learning Dashboard** | Dashboard to track student analytics | Power BI, Python, ML | 📈 |
+| ![📊](https://img.icons8.com/color/30/power-bi.png) **Potato_Disease_Classification** | Dashboard to track student analytics | Power BI, Python, ML | 📈 |
 | ![😊](https://img.icons8.com/fluency/30/face-recognition.png) **Face Emotion Detector** | Detect emotion from webcam | OpenCV, CNN, Python | 😃 |
 
 ---
