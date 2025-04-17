@@ -43,12 +43,14 @@
 
 ### 📦 Projects
 
-| Project | Description | Tech Stack | Icon |
-|--------|-------------|------------|------|
-| ![🗑️](https://img.icons8.com/ios/30/FA5252/garbage.png) **Smart IoT Waste Bin** | Auto garbage detection with alert system | NodeMCU, Embedded C | 🗑️ |
-| ![🚗](https://img.icons8.com/ios-filled/30/00C896/joystick.png) **Voice Controlled Car** | Control via voice commands | Arduino, BT Module | 🎮 |
-| ![📊](https://img.icons8.com/color/30/power-bi.png) **Potato_Disease_Classification** | Dashboard to track student analytics | Power BI, Python, ML | 📈 |
-| ![😊](https://img.icons8.com/fluency/30/face-recognition.png) **Face Emotion Detector** | Detect emotion from webcam | OpenCV, CNN, Python | 😃 |
+### 📦 Projects
+
+| Project | Description | Tech Stack | Repo Link | Icon |
+|--------|-------------|------------|-----------|------|
+| ![🎯](https://img.icons8.com/color/30/target.png) **Object Detection using YOLO** | Real-time object detection using YOLO algorithm | Python, OpenCV, YOLOv3 | [View](https://github.com/Dhruvsingh9999/Object_Detection_using_YOLO_algorithm) | 🎯 |
+| ![🤖](https://img.icons8.com/ios-filled/30/robot.png) **Zarvis AI Assistant** | Personal AI voice assistant with voice recognition and automation | Python, Speech Recognition | [View](https://github.com/Dhruvsingh9999/Zarvis_AI) | 🤖 |
+| ![👗](https://img.icons8.com/color/30/dress-front-view.png) **Fashion Recommendation System** | Suggests outfits based on style and occasion using ML | Python, Machine Learning | [View](https://github.com/Dhruvsingh9999/Fashion-Recommendation-System) | 👗 |
+| ![🧠](https://img.icons8.com/external-flat-icons-inmotus-design/30/external-Brain-Tumor-brain-flat-icons-inmotus-design.png) **Brain Tumor Detection & Classification** | Detects and classifies brain tumors from MRI images | Python, CNN, Deep Learning | [View](https://github.com/Dhruvsingh9999/Brain-Tumor-Detection-Classification) | 🧠 |
 
 ---
 
