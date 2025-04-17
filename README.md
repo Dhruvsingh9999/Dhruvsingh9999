@@ -8,10 +8,6 @@
 <h3 align="center">Machine Learning | AI | Robotics | Python | IoT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AEFFF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+IoT+%7C+Robotics+%7C+Python+Enthusiast;Generative+AI+%7C+Embedded+Systems+%7C+Automation+Lover" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
 </p>
 
@@ -70,10 +66,6 @@
 - 🧠 [Generative AI for Data Science – *Microsoft*](https://drive.google.com/file/d/1kpD2ReeFFpWiC8WyLEx3l3uMx1wLSkb_/view?usp=sharing)
 - ☁️ [Google Cloud Arcade – *Cloud Skills Boost*](https://www.cloudskillsboost.google/public_profiles/c5854a36-e163-4840-aabc-054ece6dc70c)
 - 🔌 [IoT Exhibition – *AKS University*](https://drive.google.com/file/d/1H3sBkpCr4W9U-wf-W-kHraF5Kdm9xuEO/view?usp=sharing)
-
----
-
-
 
 ---
 
