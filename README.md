@@ -1,7 +1,7 @@
-<!-- 🚀 Dhruv Pratap Singh | GitHub Profile -->
+<!-- 🚀 Dhruv Pratap Singh | GitHub Profile --> 
 
 <p align="center">
-  <img src="https://github.com/nihalmishra01/nihalmishra01/blob/main/giphy.gif?raw=true" alt="Coding Banner" width="80%" />
+  <img src="./DHRuv Pratap singh.png" alt="Dhruv Banner" width="100%" />
 </p>
 
 <h1 align="center" style="color: #00FFFF;">Hi 👋, I'm Dhruv Pratap Singh</h1>
@@ -101,4 +101,3 @@
   🌟 _Innovate. Automate. Dominate._  
   _Thanks for visiting my profile!_ 🚀
 </p>
-
