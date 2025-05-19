@@ -57,7 +57,7 @@
 ### 📜 Certifications
 
 - 🧠 [Generative AI for Data Science – *Microsoft*](https://drive.google.com/file/d/1kpD2ReeFFpWiC8WyLEx3l3uMx1wLSkb_/view?usp=sharing)
-- ☁️ [Google Cloud Arcade – *Cloud Skills Boost*](https://www.cloudskillsboost.google/public_profiles/c5854a36-e163-4840-aabc-054ece6dc70c)
+- ☁️ [Google Cloud Arcade – *Cloud Skills Boost*](https://www.cloudskillsboost.google/public_profiles/c5786daf-2308-4bdc-82b2-fc446386a17c)
 - 🔌 [IoT Exhibition – *AKS University*](https://drive.google.com/file/d/1H3sBkpCr4W9U-wf-W-kHraF5Kdm9xuEO/view?usp=sharing)
 
 ---
