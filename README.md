@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" style="color: #00FFFF;">Hi 👋, I'm Dhruv Pratap Singh</h1>
-<h3 align="center">Machine Learning | AI | Robotics | Python | IoT Enthusiast</h3>
+<h3 align="center">Data Science | AI | Clouds | Python | IoT Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
@@ -40,8 +40,6 @@
 </p>
 
 ---
-
-### 📦 Projects
 
 ### 📦 Projects
 
