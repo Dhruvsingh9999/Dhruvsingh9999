@@ -52,7 +52,10 @@
 
 ---
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhruvsingh9999&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvsingh9999&theme=juicyfresh&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
 
 ---
 ### 📜 Certifications
