@@ -51,7 +51,10 @@
 | ![🧠](https://img.icons8.com/external-flat-icons-inmotus-design/30/external-Brain-Tumor-brain-flat-icons-inmotus-design.png) **Brain Tumor Detection & Classification** | Detects and classifies brain tumors from MRI images | Python, CNN, Deep Learning | [View](https://github.com/Dhruvsingh9999/Brain-Tumor-Detection-Classification) | 🧠 |
 
 ---
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hardik-8&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 ### 📜 Certifications
 
 - 🧠 [Generative AI for Data Science – *Microsoft*](https://drive.google.com/file/d/1kpD2ReeFFpWiC8WyLEx3l3uMx1wLSkb_/view?usp=sharing)
